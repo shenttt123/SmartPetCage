@@ -72,12 +72,8 @@ float getTemp(){
   float a1 = (tempR1 *0.73 / 700 -0.5)* 100 - 2.5;
   float a = a1;
   int i = 0;
-  for(i;i<20;i++){
-     tempR1 = float(analogRead(34));
-     a1 = (tempR1 *0.73 / 700 -0.5)* 100 - 2.5;
-     a += a1;
-  }
-  return (a*1.8/21+32)+8;
+  
+  return a
 }
 
 float getTankLevel(){
@@ -88,11 +84,7 @@ float getTankLevel(){
   if(w1<20){
     Blinker.push("Water Level Low!");     
   }
-  for(ii;ii<20;ii++){
-     waters = float(analogRead(32));
-     w1 = waters *0.73 / 700;
-     w += w1;
-  }
+ 
   return w/21*100;
 }
 
@@ -103,14 +95,8 @@ float getSmallTank(){
   int ii = 0;
   if(w1<20){
     Blinker.push("Water Level Low!");     
-  }
-  for(ii;ii<20;ii++){
-     waters = float(analogRead(35));
-     w1 = waters *0.73 / 700;
-     w += w1;
-  }
-  return w/21;
-
+  } 
+  return waters *0.73 / 700
   }
 
 void dataStorage() {
@@ -149,12 +135,6 @@ void setup()
     Button2.attach(button2_callback);
 
 }
-
-void printSlideData(){
-  Serial.println(fA1);
-  Serial.println(fA2);
-  delay(200);
-  }
 
 void loop(){
     if(getSmallTank()<0.3){
