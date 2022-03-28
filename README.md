@@ -1,1 +1,1 @@
-[embed]https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf  [/embed]
+<embed src="https://github.com/shenttt123/SmartPetCage/blob/main/smartpetcage.pdf" />
