@@ -1,10 +1,6 @@
-![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_2.jpg)
-![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_3.jpg)
-![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_4.jpg)
-![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_5.jpg)
-![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_6.jpg)
+
 ![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_7.jpg)
-![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_8.jpg)
+
 ![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_9.jpg)
 ![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_10.jpg)
 ![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_11.jpg)
