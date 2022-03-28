@@ -1,1 +1,1 @@
-[embed]  https://drive.google.com/file/d/17yqRrlW3miXajFUlCMqHmkvl_BTrfOm1/view?usp=sharing  [/embed]
+[embed]  https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf  [/embed]
