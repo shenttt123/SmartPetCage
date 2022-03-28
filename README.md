@@ -1,9 +1,5 @@
-
 ![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_7.jpg)
-
 ![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_9.jpg)
-![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_10.jpg)
-![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_11.jpg)
 ![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_12.jpg)
 ![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_13.jpg)
 ![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_14.jpg)
