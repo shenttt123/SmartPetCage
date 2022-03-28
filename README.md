@@ -1,4 +1,3 @@
-![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_1.jpg)
 ![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_2.jpg)
 ![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_3.jpg)
 ![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_4.jpg)
