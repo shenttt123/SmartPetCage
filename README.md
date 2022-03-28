@@ -1,1 +1,1 @@
-[smartpetcage.pdf](https://github.com/shenttt123/smartpetcage/files/8359220/smartpetcage.pdf)
+![alt text](https://github.com/shenttt123/smartpetcage/blob/main/image/smartpetcage1024_1.jpg)
