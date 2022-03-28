@@ -304,5 +304,6 @@ if wlan is None:
     while True:
         pass  # should not pass
 
+   
 # Main Code goes here, wlan is a working network.WLAN(STA_IF) instance.
 print("ESP OK")
